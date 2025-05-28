@@ -378,6 +378,46 @@ const expertiseData = [
           personal website, where I share insights and innovative solutions.
         </p>
         <div className="techContainer">
+          <div className="techCard">
+          <div style={{ display: 'flex', flexDirection: 'row',  alignItems: 'center' , justifyContent:'center', marginTop:20, marginBottom:10}}>
+
+<SiReact style={{ color: '#61DAFB', marginRight: 8, width: 30, height: 30  }} />
+            <p className="techTitle">React JS</p>
+            </div>
+            <p className="techDesc">
+              Experienced in building dynamic web applications using React JS
+              and component-based architecture.
+            </p>
+          </div>
+
+          <div className="techCard">
+          <div style={{ display: 'flex', flexDirection: 'row',  alignItems: 'center' , justifyContent:'center', marginTop:20, marginBottom:10}}>
+
+          <SiReact style={{ color: '#61DAFB', marginRight: 8, width: 30, height: 30  }} />
+
+            <p className="techTitle">React Native</p>
+            </div>
+            <p className="techDesc">
+              Developed cross-platform mobile apps using React Native, ensuring
+              native performance and seamless user experiences.
+            </p>
+          </div>
+
+          <div className="techCard">
+          <div style={{ display: 'flex', flexDirection: 'row',  alignItems: 'center' , justifyContent:'center', marginTop:20, marginBottom:10}}>
+          <SiHtml5 style={{ color: '#e34c26', marginRight: 6, width: 30, height: 30 }} />
+  <SiCss3 style={{ color: '#1572b6', marginRight: 8, width: 30, height: 30 }} />
+  <p className="techTitle" style={{ margin: 0 }}>
+    HTML & CSS
+  </p>
+</div>
+
+            <p className="techDesc">
+    Solid foundation in HTML & CSS for structuring and styling web pages with responsive and accessible designs.
+  </p>
+</div>
+        </div>
+        <div className="techContainer">
   <div className="techCard">
   <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'center', marginTop: 20, marginBottom: 10 }}>
   <SiTypescript style={{ color: '#3178c6', marginRight: 8, width: 30, height: 30  }} />
@@ -464,46 +504,7 @@ const expertiseData = [
           </div>
         </div>
 
-        <div className="techContainer">
-          <div className="techCard">
-          <div style={{ display: 'flex', flexDirection: 'row',  alignItems: 'center' , justifyContent:'center', marginTop:20, marginBottom:10}}>
-
-<SiReact style={{ color: '#61DAFB', marginRight: 8, width: 30, height: 30  }} />
-            <p className="techTitle">React JS</p>
-            </div>
-            <p className="techDesc">
-              Experienced in building dynamic web applications using React JS
-              and component-based architecture.
-            </p>
-          </div>
-
-          <div className="techCard">
-          <div style={{ display: 'flex', flexDirection: 'row',  alignItems: 'center' , justifyContent:'center', marginTop:20, marginBottom:10}}>
-
-          <SiReact style={{ color: '#61DAFB', marginRight: 8, width: 30, height: 30  }} />
-
-            <p className="techTitle">React Native</p>
-            </div>
-            <p className="techDesc">
-              Developed cross-platform mobile apps using React Native, ensuring
-              native performance and seamless user experiences.
-            </p>
-          </div>
-
-          <div className="techCard">
-          <div style={{ display: 'flex', flexDirection: 'row',  alignItems: 'center' , justifyContent:'center', marginTop:20, marginBottom:10}}>
-          <SiHtml5 style={{ color: '#e34c26', marginRight: 6, width: 30, height: 30 }} />
-  <SiCss3 style={{ color: '#1572b6', marginRight: 8, width: 30, height: 30 }} />
-  <p className="techTitle" style={{ margin: 0 }}>
-    HTML & CSS
-  </p>
-</div>
-
-            <p className="techDesc">
-    Solid foundation in HTML & CSS for structuring and styling web pages with responsive and accessible designs.
-  </p>
-</div>
-        </div>
+        
       </div>
 
       <div className="projectsView">
