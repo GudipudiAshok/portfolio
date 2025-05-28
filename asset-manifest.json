@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d4e85c45.css",
+    "main.js": "/portfolio/static/js/main.58d781a5.js",
+    "static/media/AI.png": "/portfolio/static/media/AI.ed48505301587f3ba5d2.png",
+    "static/media/Iscripts.png": "/portfolio/static/media/Iscripts.990823e4a0679d043bb4.png",
+    "static/media/image.png": "/portfolio/static/media/image.93720296a9be3598f41c.png",
+    "static/media/qr.jpeg": "/portfolio/static/media/qr.a6279fd5e746e7d9b0ab.jpeg",
+    "static/media/StreetViewImage.jpeg": "/portfolio/static/media/StreetViewImage.20e697d5fdf590bf50d9.jpeg",
+    "static/media/googleMap.jpeg": "/portfolio/static/media/googleMap.8af98baa2df04f79463c.jpeg",
+    "static/media/ashok.jpeg": "/portfolio/static/media/ashok.13abaf2fbf364be4d787.jpeg",
+    "static/media/MedicineImage.png": "/portfolio/static/media/MedicineImage.bc2c5e8d1da96ed48b3d.png",
+    "static/media/parent.jpeg": "/portfolio/static/media/parent.b71e5895f01358f0c116.jpeg",
+    "static/media/cropImage.jpeg": "/portfolio/static/media/cropImage.ddf478133a4d91bcdb52.jpeg",
+    "static/media/chess.png": "/portfolio/static/media/chess.39d2d3c9832606b4fd88.png",
+    "static/media/TikTcToeImage.jpg": "/portfolio/static/media/TikTcToeImage.e7b7203d93bda6ba989f.jpg",
+    "static/media/employe.jpeg": "/portfolio/static/media/employe.6e397b0e7344f06a8200.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.d4e85c45.css.map": "/portfolio/static/css/main.d4e85c45.css.map",
+    "main.58d781a5.js.map": "/portfolio/static/js/main.58d781a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e85c45.css",
+    "static/js/main.58d781a5.js"
+  ]
+}
