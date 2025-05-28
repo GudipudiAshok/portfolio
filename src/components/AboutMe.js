@@ -1,7 +1,7 @@
 // src/components/About.js
 import React from 'react';
 import './AboutMe.css'; 
-import devImage from '../assets/ashok.jpeg'; 
+import devImage from '../assets/ashokimag.jpeg'; 
 
 function AboutMe() {
   return (
