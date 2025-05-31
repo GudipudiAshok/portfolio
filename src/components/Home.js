@@ -25,7 +25,7 @@ import {
   SiSpringboot,
   SiJava,
   SiPython,
-  SiMysql,
+  SiMysql,x,
   SiReact,
   SiHtml5,
   SiCss3,

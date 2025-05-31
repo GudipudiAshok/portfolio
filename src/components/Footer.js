@@ -8,7 +8,7 @@ function Footer({ tabs, activeTab, onTabClick }) {
       
       {/* Left side - copyright */}
       <p className="text-sm text-gray-400 mb-4 md:mb-0">
-        © {new Date().getFullYear()} Agsk.dev. All rights reserved.
+        © {new Date().getFullYear()} Ashok.dev. All rights reserved.
       </p>
       <nav>
         <ul className="flex gap-20 text-5sm font-bold">
