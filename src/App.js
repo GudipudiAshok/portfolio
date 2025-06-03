@@ -20,7 +20,7 @@ function App() {
   const [activeTab, setActiveTab] = useState('home');
 
   return (
-    <div className="bg-[#0A0F1C] min-h-screen flex flex-col justify-between">
+<div className="bg-[#f0f4f8 ] min-h-screen flex flex-col justify-between">
       <Header 
         tabs={TABS} 
         activeTab={activeTab} 
@@ -37,10 +37,10 @@ function App() {
   )}
 </main>
 
-      <Footer 
+      {/* <Footer 
          tabs={TABS} 
          activeTab={activeTab} 
-         onTabClick={setActiveTab}  /> {/* ✅ Place Footer at the bottom */}
+         onTabClick={setActiveTab}  /> ✅ Place Footer at the bottom */}
     </div>
   );
 }
