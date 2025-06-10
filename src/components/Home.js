@@ -904,7 +904,7 @@ const expertiseData = [
           textAlign: 'center',
           fontWeight: 500
         }}>
-          ✅ Message sent successfully. Sasi Kumar will reach you soon... 😄
+          ✅ Message received. Ashok will respond to you at the earliest.
         </p>
       )}
     </div>
